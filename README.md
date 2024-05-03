@@ -29,7 +29,3 @@ Para adicionar um novo posto de gasolina é muito simples:
 Devo lembrar que dentro da matriz funciona da seguinte forma:
 
 Nome do Posto de Gasolina, Valor da Gasolina, Posição X, Posição Y, Posição Z
-
-### Contato
-
-Contato via Discord: Vitor Santos#0001 
